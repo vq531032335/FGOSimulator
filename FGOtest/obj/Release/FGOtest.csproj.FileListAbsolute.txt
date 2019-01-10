@@ -1,0 +1,11 @@
+C:\Users\VicQory\source\repos\FGOtest\FGOtest\bin\Release\FGOtest.exe.config
+C:\Users\VicQory\source\repos\FGOtest\FGOtest\bin\Release\FGOtest.exe
+C:\Users\VicQory\source\repos\FGOtest\FGOtest\bin\Release\FGOtest.pdb
+C:\Users\VicQory\source\repos\FGOtest\FGOtest\obj\Release\FGOtest.Form1.resources
+C:\Users\VicQory\source\repos\FGOtest\FGOtest\obj\Release\FGOtest.FormSelectRW.resources
+C:\Users\VicQory\source\repos\FGOtest\FGOtest\obj\Release\FGOtest.Properties.Resources.resources
+C:\Users\VicQory\source\repos\FGOtest\FGOtest\obj\Release\FGOtest.csproj.GenerateResource.Cache
+C:\Users\VicQory\source\repos\FGOtest\FGOtest\obj\Release\FGOtest.csproj.CoreCompileInputs.cache
+C:\Users\VicQory\source\repos\FGOtest\FGOtest\obj\Release\FGOtest.exe
+C:\Users\VicQory\source\repos\FGOtest\FGOtest\obj\Release\FGOtest.pdb
+C:\Users\VicQory\source\repos\FGOtest\FGOtest\obj\Release\FGOtest.csprojResolveAssemblyReference.cache
